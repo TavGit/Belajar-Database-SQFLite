@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="belajar_sqflite"
+        android:label="aplikasi_pos"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
