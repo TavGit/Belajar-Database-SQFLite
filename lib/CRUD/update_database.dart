@@ -42,7 +42,7 @@ class _UpdateScreenState extends State<UpdateScreen> {
               controller: nameController,
               decoration: InputDecoration(
                 filled: true,
-                fillColor: Colors.blueGrey,
+                fillColor: const Color.fromARGB(255, 11, 182, 204),
                 border: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(10),
                 ),
@@ -56,7 +56,7 @@ class _UpdateScreenState extends State<UpdateScreen> {
               controller: categoryController,
               decoration: InputDecoration(
                 filled: true,
-                fillColor: Colors.blueGrey,
+                fillColor: const Color.fromARGB(255, 11, 182, 204),
                 border: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(10),
                 ),

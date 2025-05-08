@@ -37,7 +37,7 @@ class _CreateScreenState extends State<CreateScreen> {
               controller: nameController,
               decoration: InputDecoration(
                 filled: true,
-                fillColor: Colors.blueGrey,
+                fillColor: const Color.fromARGB(255, 11, 182, 204),
                 border: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(10),
                 ),
@@ -51,7 +51,7 @@ class _CreateScreenState extends State<CreateScreen> {
               controller: categoryController,
               decoration: InputDecoration(
                 filled: true,
-                fillColor: Colors.blueGrey,
+                fillColor: const Color.fromARGB(255, 11, 182, 204),
                 border: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(10),
                 ),
