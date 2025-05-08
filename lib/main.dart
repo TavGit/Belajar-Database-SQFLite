@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const MyHomePage(title: 'Aplikasi Pos by Gustav'),
+      home: const MyHomePage(title: 'Aplikasi Pos Kasir by Gustav'),
     );
   }
 }
